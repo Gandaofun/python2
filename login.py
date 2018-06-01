@@ -1,4 +1,5 @@
-sasogbasg
+
 a =1
-b = 10
-c = 3
+b = 2
+
+sasogbasg
